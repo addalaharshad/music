@@ -24,6 +24,7 @@ header p{
 .pads{
 	background: lightblue;
 	width:100%;
+	display:flex;
 }
 .pads > div{
 	height: 100px;
